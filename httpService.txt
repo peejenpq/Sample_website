@@ -1,0 +1,5 @@
+$http.get('YOUR_WEBSERVICE_URL').then(function(response){
+
+}, function(error){
+
+});
